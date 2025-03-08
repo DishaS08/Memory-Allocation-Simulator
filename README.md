@@ -48,4 +48,4 @@ A web-based simulator that demonstrates various **memory allocation techniques**
 3. Open `index.html` in your browser.
 
 ## 📧 Contact
-
+For any queries, feel free to reach out.
