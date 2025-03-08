@@ -7,6 +7,7 @@ A web-based simulator that demonstrates various **memory allocation techniques**
 ✅ First Fit Algorithm ➔ Allocates the first available block that fits the process size.  
 ✅ Best Fit Algorithm ➔ Allocates the smallest available block that fits the process size.  
 ✅ Worst Fit Algorithm ➔ Allocates the largest available block that fits the process size.  
+✅ Next Fit Algorithm ➔ Similar to First Fit but starts searching from the last allocated position, improving performance in some scenarios.
 
 ## 🛠️ Technologies Used
 
